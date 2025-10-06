@@ -1,57 +1,78 @@
-# 👋 Hi, I'm Rinal Achkarpohre  
+# ☁️ Rinal Achkarpohre — DevOps & Cloud Engineer  
 
-🎓 **B.Tech Computer Science Student** | 💻 **Backend Developer in Progress** | 🚀 **Learning to build systems that scale**
-
----
-
-### 💡 About Me  
-- 🔭 Currently working on full-stack web projects using **React** and **Node.js**  
-- 🌱 Exploring **Cloud Computing**, **DevOps**, and **Software Architecture**  
-- 🧠 Interested in how big systems like Netflix or GPay scale to millions of users  
-- 🧩 Passionate about clean code, design patterns, and automation  
-- ⚙️ Always improving my understanding of **databases**, **APIs**, and **distributed systems**
+🚀 **Automating Infrastructure | Scaling Systems | Building Cloud-Native Architectures**
 
 ---
 
-### 🛠️ Tech Stack  
-**Languages:**  
-`Java` · `Python` · `JavaScript` · `C++`  
-
-**Frameworks & Tools:**  
-`React` · `Next.js` · `Node.js` · `Express.js` · `TailwindCSS`  
-
-**Databases:**  
-`MySQL` · `MongoDB`  
-
-**DevOps & Cloud:**  
-`Docker` · `GitHub Actions` · `AWS (Basics)` · `Linux`  
-
-**Other Tools:**  
-`Git` · `Postman` · `VS Code` · `Figma`
+### 👋 About Me
+I’m a **DevOps & Cloud Engineer in the making**, passionate about building scalable, automated, and secure systems.  
+Currently focused on mastering **cloud infrastructure**, **CI/CD pipelines**, and **Kubernetes orchestration**.  
 
 ---
 
-### 🧩 Projects  
-- 🧾 **Expense Tracker** – Full-stack app for tracking spending habits  
-  _React · Node.js · MongoDB_  
-- 💬 **Chat App (Offline)** – Local text-based chat system without a server  
-  _JavaScript · MySQL_  
-- 📊 **Student Management System** – Dashboard for managing students and batches  
-  _Next.js · Drizzle ORM · PostgreSQL_
+### ⚙️ Core Skillsets  
+
+#### 🧱 Foundations
+- Linux Administration (Ubuntu, CentOS)
+- Bash / Shell Scripting
+- Networking (DNS, TCP/IP, Load Balancing, Firewalls)
+- Git & Version Control Workflows  
+
+#### ☁️ Cloud Platforms
+- **AWS**: EC2, S3, IAM, Lambda, CloudWatch, Route53, VPC, RDS  
+- Basic exposure to **Azure** and **Google Cloud Platform**
+
+#### 🐳 Containers & Orchestration
+- Docker (images, containers, Compose)
+- Kubernetes (Deployments, Services, Ingress, Helm)
+- EKS & GKE for managed cluster operations  
+
+#### 🧩 Infrastructure as Code (IaC)
+- Terraform for provisioning and automation  
+- Ansible for configuration management  
+- Packer for machine image automation  
+
+#### 🔁 CI/CD & Automation
+- GitHub Actions · Jenkins · GitLab CI  
+- Blue/Green & Canary Deployments  
+- Automated testing & artifact management  
+
+#### 📊 Monitoring & Logging
+- Prometheus + Grafana  
+- ELK Stack (Elasticsearch, Logstash, Kibana)  
+- AWS CloudWatch & Datadog basics  
+
+#### 🔐 Security & Reliability
+- IAM roles and policies  
+- SSL/TLS certificates and HTTPS enforcement  
+- Secrets management (Vault / AWS Secrets Manager)  
+- Basic understanding of SRE practices (SLI, SLO, Error Budgets)
 
 ---
 
-### 📈 GitHub Stats  
+### 🛠️ Tools I Use
+`Docker` · `Kubernetes` · `Terraform` · `Ansible` · `GitHub Actions` · `Linux` · `AWS` · `Prometheus` · `Grafana` · `Jenkins` · `Postman`  
+
+---
+
+### 🌱 Current Goals
+- Build a **Kubernetes-based microservices environment** with autoscaling and monitoring  
+- Learn **GitOps workflows** using ArgoCD  
+- Get certified in **AWS Solutions Architect Associate**  
+
+---
+
+### 📈 GitHub Stats
 ![Rinal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rinalachkarpohre&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rinalachkarpohre&layout=compact&theme=tokyonight)
 
 ---
 
-### 📫 Connect With Me  
+### 📫 Connect With Me
 📧 **rinalachkarpohre@gmail.com**  
 💼 [LinkedIn](https://linkedin.com/in/rinalachkarpohre)  
 🌐 [Portfolio](https://rinalachkarpohre.github.io)
 
 ---
 
-> “Great software isn’t written — it’s designed, tested, and evolved.”
+> “In DevOps, consistency isn’t an achievement — it’s a baseline.”
