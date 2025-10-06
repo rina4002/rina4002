@@ -62,9 +62,7 @@ Currently focused on mastering **cloud infrastructure**, **CI/CD pipelines**, an
 
 ---
 
-### 📈 GitHub Stats
-![Rinal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rinalachkarpohre&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rinalachkarpohre&layout=compact&theme=tokyonight)
+[![roadmap.sh](https://roadmap.sh/card/tall/68e3b5061d72874d108c8391?variant=dark&roadmaps=devops%2Caws%2Ckubernetes%2Cpython)](https://roadmap.sh)
 
 ---
 
