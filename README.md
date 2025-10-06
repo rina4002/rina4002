@@ -69,7 +69,7 @@ Currently focused on mastering **cloud infrastructure**, **CI/CD pipelines**, an
 ---
 
 ### 📫 Connect With Me
-📧 **rinalachkarpohre@gmail.com**  
+📧 **rinal12achkarpohre@gmail.com**  
 💼 [LinkedIn](https://linkedin.com/in/rinalachkarpohre)  
 🌐 [Portfolio](https://rinalachkarpohre.github.io)
 
