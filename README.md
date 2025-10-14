@@ -61,8 +61,6 @@ Currently focused on mastering **cloud infrastructure**, **CI/CD pipelines**, an
 - Get certified in **AWS Solutions Architect Associate**  
 
 ---
-https://roadmap.sh/u/rinal
----
 
 ### 📫 Connect With Me
 📧 **rinal12achkarpohre@gmail.com**  
