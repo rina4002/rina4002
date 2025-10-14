@@ -62,7 +62,7 @@ Currently focused on mastering **cloud infrastructure**, **CI/CD pipelines**, an
 
 ---
 
-[![roadmap.sh](https://roadmap.sh/card/tall/68e3b5061d72874d108c8391?variant=dark&roadmaps=devops%2Caws%2Ckubernetes%2Cpython)](https://roadmap.sh)
+
 
 ---
 
