@@ -61,9 +61,7 @@ Currently focused on mastering **cloud infrastructure**, **CI/CD pipelines**, an
 - Get certified in **AWS Solutions Architect Associate**  
 
 ---
-
-
-
+https://roadmap.sh/card/tall/rinalachkarpohre)](https://roadmap.sh/u/rinalachkarpohre
 ---
 
 ### 📫 Connect With Me
